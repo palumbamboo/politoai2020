@@ -1,0 +1,25 @@
+.toggle-icon {
+  padding: 0 14px;
+}
+
+mat-sidenav-container{
+  margin: 20px;
+  height: 100%;
+}
+
+button {
+  margin: 16px 8px;
+}
+
+.example-form {
+  min-width: 300px;
+  max-width: 500px;
+  width: 100%;
+  margin-left: 16px;
+  margin-bottom: 4px;
+  margin-top: 8px;
+}
+
+.example-full-width {
+  width: 100%;
+}
